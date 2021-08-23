@@ -1,0 +1,23 @@
+.navbar1{
+  
+        /* background-color: white; */
+    /* height: 60px; */
+    /* border: double; */
+    /* font-size: medium; */
+    font-weight: bold;
+    /* padding: 0px; */
+    margin-bottom: 2vh;
+  
+    
+  }
+  
+  .nav-link{
+    width: 150px;
+    color:black !important;
+    border: solid;
+    margin-left: 5px;
+    font-size: 30px;
+
+  } 
+  
+  
